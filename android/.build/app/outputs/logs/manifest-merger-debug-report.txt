@@ -1,0 +1,271 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-date-picker] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-date-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\7b70db29d467f7ac6f6787f959377fff\AndroidManifest.xml:2:1-15:12
+MERGED from [cn.carbswang.android:NumberPickerView:1.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\NumberPickerView-1.1.1.aar\11fb0907df09066737988746594f313e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\00837f5b5227bf2b8d4e74ec480de8ac\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-camera] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\88bb1431552856ebce5c7fc347e9df1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\207cd8b45f4f9a6a5ca677fdfe127724\AndroidManifest.xml:2:1-9:12
+MERGED from [net.time4j:time4j-android:3.42-2018e] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\time4j-android-3.42-2018e.aar\6a9a82706f83650379959d7e69e404fc\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\a1be339ae7ed8873f6afca8da9ab85c8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\0f3c54f2e9ecea20d3345229f686122c\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\528cf8b4070536779da48c1cc2c78fa2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\c3efaf51b3a5c307f924e49b936c8c75\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\030ee0d562df8fbeeb5e2a36c77a52a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\b47a45b921d96a11da0c0f5527250ac7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\77a67b7ae5af7f389472931c0626e561\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8bde87c1d39b262e7430761dc77127df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cef88fc459c2c027fc3927ffb0875840\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\922dacbf41aec9b8615f3ce53201137f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\42d82bb7586e814b0018023e151ac929\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d80e5a09bcfa1cdeba1e12e05b60c5cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\19da1c29758eb1caab1d5cefa8f7ad34\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\73cf0254d2be07f173084008b5eb5c97\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\1aec347107e48664edeea14ea147afac\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\f9aa8c5e1a37ab86cc777296bd83b5e8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\be1017596e33451943d09e794dc37856\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\5845204e35c142abbc612319577cb39c\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\6fe153a4a7ade5688488d43a0b5dafd7\AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\759c73657e9721cc4487c7a3fea3d8ac\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\f1949e009a8bfef601786ef3dd7f8584\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\7b03d524ba9a57721cffd38225b45864\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\f9c947f20e09c23565633184b47922ab\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\f4f6e8650fdf53c112df983702a5fa5d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\3db8de0aba1750ddfa22f92139ae3396\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6fd2219f9f087819e5485f09eedd998f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0dfe399a5e0637f266c49330d8ff86ba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8845641ee2054b28a6a26087d4dc7d58\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f30c600a9df08ba95c7576d869cccdef\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:2:5-26
+		INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:6:1-76
+	android:name
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:6:18-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:7:1-77
+	android:name
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:7:18-74
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:8:5-77
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\7b70db29d467f7ac6f6787f959377fff\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\7b70db29d467f7ac6f6787f959377fff\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:9:22-63
+application
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:11:5-28:19
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\7b70db29d467f7ac6f6787f959377fff\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\7b70db29d467f7ac6f6787f959377fff\AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\207cd8b45f4f9a6a5ca677fdfe127724\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\207cd8b45f4f9a6a5ca677fdfe127724\AndroidManifest.xml:7:5-20
+MERGED from [net.time4j:time4j-android:3.42-2018e] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\time4j-android-3.42-2018e.aar\6a9a82706f83650379959d7e69e404fc\AndroidManifest.xml:12:5-20
+MERGED from [net.time4j:time4j-android:3.42-2018e] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\time4j-android-3.42-2018e.aar\6a9a82706f83650379959d7e69e404fc\AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\a1be339ae7ed8873f6afca8da9ab85c8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\a1be339ae7ed8873f6afca8da9ab85c8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\0f3c54f2e9ecea20d3345229f686122c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\0f3c54f2e9ecea20d3345229f686122c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\528cf8b4070536779da48c1cc2c78fa2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\528cf8b4070536779da48c1cc2c78fa2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\c3efaf51b3a5c307f924e49b936c8c75\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\c3efaf51b3a5c307f924e49b936c8c75\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\5845204e35c142abbc612319577cb39c\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\5845204e35c142abbc612319577cb39c\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\6fe153a4a7ade5688488d43a0b5dafd7\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\6fe153a4a7ade5688488d43a0b5dafd7\AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\759c73657e9721cc4487c7a3fea3d8ac\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\759c73657e9721cc4487c7a3fea3d8ac\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\7b03d524ba9a57721cffd38225b45864\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\7b03d524ba9a57721cffd38225b45864\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\f9c947f20e09c23565633184b47922ab\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\f9c947f20e09c23565633184b47922ab\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\f4f6e8650fdf53c112df983702a5fa5d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\f4f6e8650fdf53c112df983702a5fa5d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\3db8de0aba1750ddfa22f92139ae3396\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\3db8de0aba1750ddfa22f92139ae3396\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:13:7-39
+	android:icon
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:12:7-38
+activity#com.testsix.MainActivity
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-date-picker] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-date-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-date-picker] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-date-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\7b70db29d467f7ac6f6787f959377fff\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\7b70db29d467f7ac6f6787f959377fff\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.carbswang.android:NumberPickerView:1.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\NumberPickerView-1.1.1.aar\11fb0907df09066737988746594f313e\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.carbswang.android:NumberPickerView:1.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\NumberPickerView-1.1.1.aar\11fb0907df09066737988746594f313e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\00837f5b5227bf2b8d4e74ec480de8ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\00837f5b5227bf2b8d4e74ec480de8ac\AndroidManifest.xml:20:5-44
+MERGED from [:react-native-camera] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\88bb1431552856ebce5c7fc347e9df1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\88bb1431552856ebce5c7fc347e9df1d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\207cd8b45f4f9a6a5ca677fdfe127724\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\207cd8b45f4f9a6a5ca677fdfe127724\AndroidManifest.xml:5:5-44
+MERGED from [net.time4j:time4j-android:3.42-2018e] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\time4j-android-3.42-2018e.aar\6a9a82706f83650379959d7e69e404fc\AndroidManifest.xml:8:5-10:41
+MERGED from [net.time4j:time4j-android:3.42-2018e] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\time4j-android-3.42-2018e.aar\6a9a82706f83650379959d7e69e404fc\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\a1be339ae7ed8873f6afca8da9ab85c8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\a1be339ae7ed8873f6afca8da9ab85c8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\0f3c54f2e9ecea20d3345229f686122c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\0f3c54f2e9ecea20d3345229f686122c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\528cf8b4070536779da48c1cc2c78fa2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\528cf8b4070536779da48c1cc2c78fa2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\c3efaf51b3a5c307f924e49b936c8c75\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\c3efaf51b3a5c307f924e49b936c8c75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\030ee0d562df8fbeeb5e2a36c77a52a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\030ee0d562df8fbeeb5e2a36c77a52a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\b47a45b921d96a11da0c0f5527250ac7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\b47a45b921d96a11da0c0f5527250ac7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\77a67b7ae5af7f389472931c0626e561\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\77a67b7ae5af7f389472931c0626e561\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8bde87c1d39b262e7430761dc77127df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8bde87c1d39b262e7430761dc77127df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cef88fc459c2c027fc3927ffb0875840\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cef88fc459c2c027fc3927ffb0875840\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\922dacbf41aec9b8615f3ce53201137f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\922dacbf41aec9b8615f3ce53201137f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\42d82bb7586e814b0018023e151ac929\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\42d82bb7586e814b0018023e151ac929\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d80e5a09bcfa1cdeba1e12e05b60c5cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d80e5a09bcfa1cdeba1e12e05b60c5cf\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\19da1c29758eb1caab1d5cefa8f7ad34\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\19da1c29758eb1caab1d5cefa8f7ad34\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\73cf0254d2be07f173084008b5eb5c97\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\73cf0254d2be07f173084008b5eb5c97\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\1aec347107e48664edeea14ea147afac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\1aec347107e48664edeea14ea147afac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\f9aa8c5e1a37ab86cc777296bd83b5e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\f9aa8c5e1a37ab86cc777296bd83b5e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\be1017596e33451943d09e794dc37856\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\be1017596e33451943d09e794dc37856\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\5845204e35c142abbc612319577cb39c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\5845204e35c142abbc612319577cb39c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\759c73657e9721cc4487c7a3fea3d8ac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\759c73657e9721cc4487c7a3fea3d8ac\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\f1949e009a8bfef601786ef3dd7f8584\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\f1949e009a8bfef601786ef3dd7f8584\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\7b03d524ba9a57721cffd38225b45864\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\7b03d524ba9a57721cffd38225b45864\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\f9c947f20e09c23565633184b47922ab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\f9c947f20e09c23565633184b47922ab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\f4f6e8650fdf53c112df983702a5fa5d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\f4f6e8650fdf53c112df983702a5fa5d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\3db8de0aba1750ddfa22f92139ae3396\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\3db8de0aba1750ddfa22f92139ae3396\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6fd2219f9f087819e5485f09eedd998f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6fd2219f9f087819e5485f09eedd998f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0dfe399a5e0637f266c49330d8ff86ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0dfe399a5e0637f266c49330d8ff86ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8845641ee2054b28a6a26087d4dc7d58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8845641ee2054b28a6a26087d4dc7d58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f30c600a9df08ba95c7576d869cccdef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f30c600a9df08ba95c7576d869cccdef\AndroidManifest.xml:20:5-44
+INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Work\react native router flux\new cardmarker\new card marker\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\0f3c54f2e9ecea20d3345229f686122c\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\0f3c54f2e9ecea20d3345229f686122c\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\0f3c54f2e9ecea20d3345229f686122c\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\0f3c54f2e9ecea20d3345229f686122c\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\c3efaf51b3a5c307f924e49b936c8c75\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\c3efaf51b3a5c307f924e49b936c8c75\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Dinusha\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\c3efaf51b3a5c307f924e49b936c8c75\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Work\react native router flux\new cardmarker\new card marker\android\app\src\main\AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4

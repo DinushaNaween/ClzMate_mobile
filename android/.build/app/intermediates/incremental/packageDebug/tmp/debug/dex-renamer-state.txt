@@ -1,0 +1,4 @@
+#Sat Jan 26 15:28:40 IST 2019
+base.0=C\:\\Work\\react native router flux\\new cardmarker\\new card marker\\android\\.build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
